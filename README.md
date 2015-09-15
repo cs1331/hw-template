@@ -8,7 +8,7 @@
 
 ## Solution Description
 
-## Tisp
+## Tips
 
 ## Submission
 
